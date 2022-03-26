@@ -1,4 +1,4 @@
-# Windows10_scripts
+# Windows_scripts
 
 Useful scripts to avoid pain
 
